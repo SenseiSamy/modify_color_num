@@ -1,0 +1,7 @@
+[package]
+name = "modify_color_num"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+prcx = { git = "https://github.com/blu-dev/prcx", branch = "xml-style" }
